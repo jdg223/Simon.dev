@@ -1,0 +1,37 @@
+button {
+	height: 150px;
+	width:  150px;
+	margin-left: 13px;
+	margin-right: 13px;
+
+}
+.row{
+	padding-top: 50px;
+}
+
+#box-1{
+	background-color: #FE99CD;
+}
+
+#box-2{
+	background-color: #D7A6F5;
+}
+
+#box-3{
+	background-color: #706875;
+}
+
+#box-4{
+	background-color: #F2F598;
+}
+
+#start-game{
+	height: 50px;
+	width: 100px;
+	margin-left: 515px;
+	margin-top: 30px;
+}
+
+h3{
+	text-align: center;
+}
